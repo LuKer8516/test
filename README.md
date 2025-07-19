@@ -5,3 +5,6 @@ push befoe pull
 push after pull
 
 dev add line
+
+the master add
+
