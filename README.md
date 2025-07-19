@@ -1,2 +1,2 @@
-# the first Andorid APP
+the first Andorid APP
 
